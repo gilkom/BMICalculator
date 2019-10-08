@@ -14,7 +14,7 @@ public class BMICalculator {
 		
 		new BMICalculator();
 	}
-	 
+	  
 	BMICalculator(){
 		//SEtting the frame
 		JFrame f = new JFrame("BMI Calculator");
