@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
 public class BMICalculator {
 
 	boolean sex = true;
-	
+	 
 	public static void main(String args[]) {
 		
 		new BMICalculator();
